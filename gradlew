@@ -2,7 +2,7 @@
 
 ##############################################################################
 ##
-##  Gradle start up script for UN*X
+##  Gradle start up script for UN*
 ##
 ##############################################################################
 
@@ -85,7 +85,7 @@ else
     which java >/dev/null 2>&1 || die "ERROR: JAVA_HOME is not set and no 'java' command could be found in your PATH.
 
 Please set the JAVA_HOME variable in your environment to match the
-location of your Java installation."
+location of your Java installatio"
 fi
 
 # Increase the maximum file descriptors if we can.
